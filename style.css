@@ -51,7 +51,7 @@ body * {
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 16px; /* reduzido de 24px */
 }
 
 #profile img {
@@ -62,7 +62,7 @@ body * {
   font-weight: 400;
   line-height: 24px;
   margin-top: 8px;
-  padding: 24px 0;
+  padding: 4px 0; /* reduzido de 24px */
 }
 
 .typing {
